@@ -15,6 +15,8 @@ creator:
     - http://it.wikipedia.org/wiki/Filippo_Tommaso_Marinetti
     - http://en.wikipedia.org/wiki/Filippo_Tommaso_Marinetti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17838#L-aeroplano-del-papaRomanzo-profetico-in-versi-liberi
 gutenberg_bookshelf: IT Poesia
 gutenberg_issued: '2006-02-23'
 gutenberg_type: Text
